@@ -1,0 +1,3 @@
+this is the 3rd chapter text file that i made so as to learn how the git and github does what it does.
+github is a version control software. which has repositories where we can save the files. It maintains the different version or cahnges that we make to the files present so that we can track these changes or revert back to a previous "version" of the file, incase we mess up.
+Hence learning about version control and the famous git repos are important for a career in software development.
